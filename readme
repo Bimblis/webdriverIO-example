@@ -1,0 +1,9 @@
+This project requires to have preinstalled:
+ Node
+ NPM
+
+Install libraries with:
+    npm Install
+
+Launch tests with:
+    npm test

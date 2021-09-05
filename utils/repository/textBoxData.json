@@ -1,0 +1,16 @@
+{
+    "request_data":
+    {
+        "userName": "testuser",
+        "userEmail": "test@blabla.com",
+        "currentAddress": "Street A,\nMadrid\n28001\nSpain",
+        "permanentAddress": "Street X,\nStockholm\n112201\nSweden"
+    },
+    "response_data":
+    {
+        "userName": "Name:testuser",
+        "userEmail": "Email:test@blabla.com",
+        "currentAddress": "Current Address :Street A, Madrid 28001 Spain",
+        "permanentAddress": "Permananet Address :Street X, Stockholm 112201 Sweden"
+    }
+}
