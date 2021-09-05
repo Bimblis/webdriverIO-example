@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Soderberg and partners technical test: As a user, I can use the textbox formulary",
+    "children" : [ {
+      "name" : "Given I am on the textbox page",
+      "uid" : "f176cfa1d1e53291",
+      "parentUid" : "2f53442bebc1d56a308cb4b1b2b649be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630861592051,
+        "stop" : 1630861594526,
+        "duration" : 2475
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    }, {
+      "name" : "When I submit textbox formulary",
+      "uid" : "16af21db31b61847",
+      "parentUid" : "2f53442bebc1d56a308cb4b1b2b649be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630861594526,
+        "stop" : 1630861595030,
+        "duration" : 504
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    }, {
+      "name" : "Then I check the values returned are correct",
+      "uid" : "1a7647102ea3e771",
+      "parentUid" : "2f53442bebc1d56a308cb4b1b2b649be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630861595030,
+        "stop" : 1630861595139,
+        "duration" : 109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    } ],
+    "uid" : "2f53442bebc1d56a308cb4b1b2b649be"
+  } ]
+}

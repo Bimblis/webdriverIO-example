@@ -1,0 +1,31 @@
+[ {
+  "uid" : "1a7647102ea3e771",
+  "name" : "Then I check the values returned are correct",
+  "time" : {
+    "start" : 1630861595030,
+    "stop" : 1630861595139,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f176cfa1d1e53291",
+  "name" : "Given I am on the textbox page",
+  "time" : {
+    "start" : 1630861592051,
+    "stop" : 1630861594526,
+    "duration" : 2475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16af21db31b61847",
+  "name" : "When I submit textbox formulary",
+  "time" : {
+    "start" : 1630861594526,
+    "stop" : 1630861595030,
+    "duration" : 504
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

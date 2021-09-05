@@ -1,0 +1,58 @@
+{
+  "uid" : "16af21db31b61847",
+  "name" : "When I submit textbox formulary",
+  "fullName" : "Soderberg and partners technical test: As a user, I can use the textbox formulary.When I submit textbox formulary",
+  "historyId" : "497af9595cda84e5e03530d81013ac4b",
+  "time" : {
+    "start" : 1630861594526,
+    "stop" : 1630861595030,
+    "duration" : 504
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Soderberg and partners technical test: As a user, I can use the textbox formulary"
+  }, {
+    "name" : "testClass",
+    "value" : "Soderberg and partners technical test: As a user, I can use the textbox formulary"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I submit textbox formulary"
+  }, {
+    "name" : "package",
+    "value" : "Soderberg and partners technical test: As a user, I can use the textbox formulary"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16af21db31b61847.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}
