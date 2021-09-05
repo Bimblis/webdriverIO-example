@@ -1,9 +1,19 @@
 This project requires to have preinstalled:
- Node
- NPM
+    Node
+    NPM
 
 Install libraries with:
     npm Install
 
 Launch tests with:
     npm test
+
+
+To see report on windows, look for "chrome.bat" in Allure report folder and double click it
+
+To see report on mac, ensure Chrome is closed, and execute this command in a terminal (if Chrome is already opened, the command wont do anything):
+
+	open /Applications/Google\ Chrome.app --args --allow-file-access-from-files
+
+	This will open a Chrome app with permissions to open the report.
+	Then just open the index.html file
